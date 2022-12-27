@@ -5,7 +5,7 @@
 <div>
   <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/21143806?v=4">
   <a href="https://github.com/RastyRock?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/RastyRock?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, RastyRock</h3>
   <p>I am a web and android application developer. I am also an educator. I teach privately
