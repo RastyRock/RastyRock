@@ -11,7 +11,7 @@
   <p>I am a web and android application developer. I am also an educator. I teach privately
     
    
-  </P> 
+  </p> 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
