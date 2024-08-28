@@ -3,7 +3,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/21143806?v=4&size=64">
+  <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/21143806?s=400&u=e04a3c08d89a2baf2c4958ff301d81ce8e905a00&v=4">
   <a href="https://github.com/RastyRock?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/RastyRock?label=Followers&style=social" alt="followers-count">
   </a>
